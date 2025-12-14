@@ -11,3 +11,8 @@ The counter updates as the user types, displaying the number of characters typed
  • Displayed a message that shows how many characters have been typed and how many are remaining "Remaining 150/200 characters allowed" 
 
  • If the user exceeds 200 character, prevented further typing and display a warning message "Maximum charaters entered". 
+
+ Tehnologies Used:
+ HTML
+ Tailwind CSS
+ JavaScript
